@@ -1,0 +1,31 @@
+<html>
+      <head>
+             <title>
+                       page3
+             </title>
+      </head>
+      <body>
+        <!-- num of one-->
+         <b>sheta and elzophpy</b><br/>
+        <img src ="IMG_20180709_141130850.jpg" width="100"height="100" title="sheta and elzophpy"/><br/><br/>
+         <b>sheta , elzophpy and moatasem</b><br/>
+        <img src ="IMG_20180709_141111048.jpg" width="100"height="100" title="sheta , elzophpy and moatasem"/><br/><br/>
+         <b>sheta only in Alex</b><br/>
+        <img src ="IMG_20180709_174342553.jpg" width="100"height="100" title="sheta only in Alex"/><br/><br/>
+         <b>sheta and elzophpy in party</b><br/>
+        <img src ="IMG_20180710_140052414.jpg" width="100"height="100" title="sheta and elzophpy in party"/><br/><br/>
+         <b>elzophpy</b><br/>
+        <img src ="IMG_20180710_141155584.jpg" width="100"height="100" title="elzophpy"/><br/><br/>
+        <!--num of two-->
+          <img src ="IMG_20180709_174342553.jpg" width="100"height="100" border="2"/><br/><br/>
+         <!--num of three-->
+         <a href="https://www.youtube.com/"target="_blank">
+         <img src ="IMG_20180710_140052414.jpg" width="100"height="100" /></a><br/><br/>
+         <!--num of four-->
+         <a href="https://www.youtube.com/"target="_self">
+         <img src ="IMG_20180710_140052414.jpg" width="100"height="100" /></a><br/><br/>
+         <!--num of five-->
+         
+
+      </body>
+</html>

@@ -1,0 +1,39 @@
+<html>
+      <head>
+             <title>
+                       page3
+             </title>
+      </head>
+      <body>
+           <p font size = 5 px>
+                  <b>
+                 A simple C program:
+                  </b>
+           </p>
+           <pre>
+ #include<stdio.h> 
+ #include<conio.h>
+ int exp (int base, int power)
+ {
+      if (power==0)
+       {              return 1 ;
+      else
+       {           power--;
+                   return base*exp(base,power);
+       }
+ }
+
+
+ main ()
+ {
+     int x=2, y=3;
+     clrscr();
+     printf("\n d d = %d", x, y, exp (x, y));
+     getch(); return 0;
+ }
+           </pre>
+           <p font size=4px>
+                Using the pre element
+           </p> 
+      </body>
+</html>
